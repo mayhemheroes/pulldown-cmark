@@ -1,0 +1,7 @@
+project: pulldown-cmark
+target: parse
+
+cmds:
+  - cmd: /parse
+  - cmd: /parse_no_inst @@
+    libfuzzer: false
