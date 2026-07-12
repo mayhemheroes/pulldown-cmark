@@ -1,0 +1,5 @@
+project: pulldown-cmark
+target: parse
+
+cmds:
+  - cmd: /mayhem/parse
